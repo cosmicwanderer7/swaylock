@@ -10,7 +10,7 @@
 
 ## Install
 
-## Install using Git
+### Install using Git
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 `git clone https://github.com/dracula/swaylock.git`
@@ -18,6 +18,6 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 ### Install manually
 Download using the [GitHub .zip download]() option and unzip them.
 
-## Activating theme
+### Activating theme
 
 `cp -rv swaylock/ ~/.config/`
