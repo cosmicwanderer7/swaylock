@@ -10,9 +10,9 @@ indicator
 indicator-radius=200
 indicator-thickness=20
 line-color=282A36
-ring-color=191724
+ring-color=BD93F9
 inside-color=282A36
-key-hl-color=BD93F9
+key-hl-color=50FA7B
 separator-color=00000000
 text-color=F8F8F2
 text-caps-lock-color=""
